@@ -1,0 +1,13 @@
+corsi_di_laurea	department_id
+10	1
+4	2
+4	3
+9	4
+4	5
+6	6
+7	7
+8	8
+5	9
+8	10
+3	11
+7	12

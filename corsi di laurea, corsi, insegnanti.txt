@@ -1,0 +1,1001 @@
+corsi_di_laurea	corsi	id	name	surname	phone	email	office_address	office_number
+Corso di Laurea Magistrale in Biologia marina	corporis consequatur labore	1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+Corso di Laurea in Ingegneria Civile	est ratione qui	1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+Corso di Laurea in Logopedia	eligendi aut vel	1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+Corso di Laurea Magistrale in Chimica	voluptatem fuga incidunt	1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+Corso di Laurea in Economia	omnis culpa voluptatem	1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	nobis vitae reprehenderit	1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	saepe quod id	1	Artemide	Rizzi	+87 81 28355927	jarno26@bianchi.it	Contrada Penelope 73	161
+Corso di Laurea in Biologia molecolare	aut consequatur sit	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	laudantium sunt consequatur	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Ingegneria Elettronica	corrupti enim praesentium	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea Magistrale in Bioingegneria	architecto id cum	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Infermieristica	rerum reiciendis quam	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Tecniche di Laboratorio Biomedico	eius animi atque	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Educazione Professionale	similique id non	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Fisioterapia	et in aspernatur	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Lettere	facilis magnam rem	2	Gianantonio	Battaglia	NULL	grizzi@costa.it	Incrocio Marini 9	28
+Corso di Laurea in Ingegneria dell'Informazione	placeat mollitia atque	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Ingegneria Elettronica	officia dolor a	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Fisioterapia	officia nam pariatur	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Tecniche di Neurofisiopatologia	illum est ea	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	qui corrupti itaque	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Chimica Industriale	aut reprehenderit deleniti	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Chimica Industriale	ea enim voluptatibus	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	dolores dolor voluptas	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Lettere	ullam numquam perspiciatis	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Lettere	sit officiis harum	3	Erminia	Gatti	NULL	morelli.marina@libero.it	Strada Vitali 8 Piano 0	87
+Corso di Laurea in Biotecnologie	earum aperiam nihil	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Biotecnologie	sed sint non	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Fisica	earum iure maxime	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Ingegneria Biomedica	veniam molestiae molestias	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Bioingegneria	necessitatibus sed vel	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	ipsum dolor suscipit	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Ingegneria Informatica	vel deleniti tempore	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Informatica	nulla hic corrupti	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Educazione Professionale	quia voluptatibus et	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Fisioterapia	delectus doloribus sint	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Tecniche di Neurofisiopatologia	et nesciunt fugit	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	est consequatur quos	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Chimica Industriale	ut accusantium dignissimos	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Chimica Industriale	consequatur architecto eum	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Scienza dei Materiali	deleniti et consectetur	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Scienza dei Materiali	eum eveniet modi	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	quidem sunt beatae	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Lettere	autem quo sed	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	eveniet qui cumque	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea Magistrale in Filologia Moderna	incidunt aperiam qui	4	Prisca	Caputo	+33 37 87454077	lazzaro12@hotmail.com	Via Mariano 48	2
+Corso di Laurea in Biotecnologie	corrupti est nobis	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Astronomia	est delectus ut	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Astronomia	voluptatem in excepturi	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Fisica	eligendi temporibus sit	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea Magistrale in Astronomia	minima fuga corrupti	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea Magistrale in Informatica	molestiae aut quasi	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Educazione Professionale	necessitatibus voluptas ut	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Igiene Dentale	reprehenderit temporibus optio	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Chimica	repellendus eligendi error	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Scienza dei Materiali	qui quis quam	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	ipsa sint omnis	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea Magistrale in Filologia Moderna	aut dolorum distinctio	5	Arduino	Vitali	NULL	nicoletta.marino@derosa.it	Borgo Martino 82 Appartamento 07	97
+Corso di Laurea in Biologia molecolare	voluptatum incidunt ut	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea Magistrale in Biologia evoluzionistica	ipsam atque animi	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea Magistrale in Biologia marina	cupiditate voluptas consectetur	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Ingegneria Civile	iste veniam et	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Ingegneria Edile - Architettura	distinctio quo praesentium	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Ingegneria dell'Informazione	hic omnis dolore	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Ingegneria dell'Informazione	et sed sunt	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	omnis amet omnis	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Tecniche di Radiologia Medica	odio vel officiis	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	dolor eos at	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Igiene Dentale	est aspernatur et	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Logopedia	quis non est	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Economia	blanditiis numquam quos	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	mollitia atque quisquam	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	aut qui consequatur	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea Magistrale in Linguistica	repudiandae amet similique	6	Bernardo	Guerra	NULL	nathan41@gallo.it	Rotonda Martinelli 309	199
+Corso di Laurea in Biologia	repellat itaque nam	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea Magistrale in Astronomia	fugit dolorem voluptas	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Ingegneria Edile - Architettura	id et ut	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea Magistrale in Ingegneria Civile	inventore reiciendis deserunt	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Informatica	molestiae est qui	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Infermieristica	sunt aut inventore	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	eaque vero sapiente	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Fisioterapia	amet qui quibusdam	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Fisioterapia	eum delectus quo	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Igiene Dentale	quo ut earum	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	minus eum et	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	sint voluptas dicta	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Tecniche di Neurofisiopatologia	aut maxime non	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	aut facilis quam	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea Magistrale in Scienze Statistiche	at exercitationem libero	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea Magistrale in Scienze Statistiche	reprehenderit eos dolores	7	Noemi	Ferraro	348 610 711	amarini@gmail.com	Contrada Amato 58 Piano 2	185
+Corso di Laurea in Biologia	quod in aut	8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	nam id aliquid	8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+Corso di Laurea in Ingegneria Elettronica	pariatur laboriosam quae	8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+Corso di Laurea Magistrale in Cybersecurity	eum soluta est	8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+Corso di Laurea in Chimica Industriale	rerum sed animi	8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	ullam voluptatem facere	8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+Corso di Laurea Magistrale in Economia e Diritto	cupiditate ullam earum	8	Ione	Costantini	+59 87 0628195	bgentile@greco.com	Strada Vitali 8 Piano 0	64
+Corso di Laurea in Biologia molecolare	accusantium culpa sint	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea in Scienze naturali	est exercitationem sit	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea Magistrale in Biologia marina	quis quasi eos	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea Magistrale in Informatica	quidem perferendis exercitationem	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea in Tecniche di Laboratorio Biomedico	modi sed earum	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea in Economia	nobis delectus veritatis	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea in Economia	quo magni rem	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	voluptatem dolore maxime	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea in Statistica per l'Economia e l'Impresa	tempore voluptates eaque	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea Magistrale in Scienze Statistiche	alias explicabo amet	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	reiciendis occaecati iure	9	Demis	Marino	NULL	fulvio.grasso@hotmail.com	Borgo Elga 89	124
+Corso di Laurea Magistrale in Scienze della natura	quae quam non	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Fisica	velit non sapiente	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Ingegneria Elettronica	aspernatur aut ut	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Matematica	reprehenderit dolores necessitatibus	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Tecniche di Radiologia Medica	facere adipisci sed	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Fisioterapia	asperiores eveniet maxime	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Igiene Dentale	qui qui molestiae	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea Magistrale in Economia e Diritto	quasi fugit est	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Statistica per l'Economia e l'Impresa	nobis voluptas illum	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Lettere	illum quae cum	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	recusandae inventore nostrum	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea Magistrale in Filologia Moderna	molestiae aut sit	10	Maria	Esposito	+30 91 02098027	caruso.davide@yahoo.it	Strada Vitali 8 Piano 0	128
+Corso di Laurea in Scienze naturali	tempore molestiae et	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Fisica	similique qui sapiente	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Ingegneria Biomedica	repellat saepe recusandae	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea Magistrale in Bioingegneria	voluptas voluptatem sint	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Fisioterapia	et nobis corporis	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Fisioterapia	hic inventore a	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Tecniche di Neurofisiopatologia	natus dolores mollitia	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Scienza dei Materiali	labore tempora odit	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea Magistrale in Business Administration	quis aut voluptas	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	amet quod repudiandae	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Scienze Politiche	et quae provident	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Scienze Politiche	tempora rerum quos	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea Magistrale in European and Global Studies	et enim occaecati	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Statistica per l'Economia e l'Impresa	natus vel ea	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	animi iure ut	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Lettere	et qui cum	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	accusantium tempora vel	11	Vinicio	Sanna	+61 8773 1539263	nico61@yahoo.com	Piazza Ferretti 619	124
+Corso di Laurea in Biotecnologie	enim qui ea	12	Arduino	Romano	NULL	abramo.gentile@benedetti.org	Strada Kociss 997 Piano 8	190
+Corso di Laurea in Fisica	sunt ut dolorem	12	Arduino	Romano	NULL	abramo.gentile@benedetti.org	Strada Kociss 997 Piano 8	190
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	aspernatur et suscipit	12	Arduino	Romano	NULL	abramo.gentile@benedetti.org	Strada Kociss 997 Piano 8	190
+Corso di Laurea Magistrale in Ingegneria Informatica	eligendi quia voluptatem	12	Arduino	Romano	NULL	abramo.gentile@benedetti.org	Strada Kociss 997 Piano 8	190
+Corso di Laurea Magistrale in Informatica	nesciunt et ullam	12	Arduino	Romano	NULL	abramo.gentile@benedetti.org	Strada Kociss 997 Piano 8	190
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	vel aliquam ut	12	Arduino	Romano	NULL	abramo.gentile@benedetti.org	Strada Kociss 997 Piano 8	190
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	ea quas quas	12	Arduino	Romano	NULL	abramo.gentile@benedetti.org	Strada Kociss 997 Piano 8	190
+Corso di Laurea in Biotecnologie	eligendi sed exercitationem	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Ingegneria Edile - Architettura	ad qui qui	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Ingegneria Civile	aut ullam pariatur	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Ingegneria Biomedica	ex vero sunt	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Ingegneria Informatica	saepe harum quidem	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Matematica	quam et ut	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Matematica	quod veritatis incidunt	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Tecniche di Laboratorio Biomedico	reiciendis in consectetur	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	quam voluptatem nihil	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Logopedia	dolorem culpa pariatur	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	animi nihil aliquam	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	consequatur et eum	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	consequatur aperiam illo	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Scienze Statistiche	debitis impedit aut	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	sequi reiciendis explicabo	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	deserunt et eum	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Linguistica	debitis est saepe	13	Tosca	Donati	+97 9502 52491933	marco26@yahoo.it	Rotonda Martinelli 309	119
+Corso di Laurea Magistrale in Biologia evoluzionistica	id id qui	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea Magistrale in Biologia marina	laborum expedita ullam	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea Magistrale in Biologia molecolare	optio corporis explicabo	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Astronomia	omnis aut ab	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Astronomia	similique similique et	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Ingegneria Civile	voluptatem qui laboriosam	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Ingegneria Informatica	quod blanditiis dolor	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Ingegneria Elettronica	voluptates tenetur quisquam	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea Magistrale in Cybersecurity	error ut officiis	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Matematica	aut odit ab	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Tecniche di Radiologia Medica	harum ducimus molestias	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Fisioterapia	ratione quis minus	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Igiene Dentale	voluptatem voluptatem totam	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	ducimus amet qui	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea Magistrale in Scienza dei Materiali	rerum enim sunt	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Economia	perferendis quos accusamus	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea Magistrale in Business Administration	est omnis possimus	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea Magistrale in European and Global Studies	perspiciatis fuga praesentium	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea Magistrale in European and Global Studies	ea eos dolor	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Lettere	necessitatibus consequatur aperiam	14	Pericle	Rossetti	343 467 240	diana94@hotmail.com	Borgo Demis 1	11
+Corso di Laurea in Biologia molecolare	ut rem libero	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Scienze naturali	dignissimos esse rerum	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Scienze naturali	dolorem laudantium minima	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea Magistrale in Biologia marina	minima iste veniam	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Ingegneria Elettronica	ut fuga sapiente	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea Magistrale in Informatica	esse harum quaerat	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Dietistica	porro quia reprehenderit	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Logopedia	aut cumque rerum	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	ratione placeat vel	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	aliquam asperiores maiores	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	voluptatem beatae velit	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	dolores quasi officia	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea Magistrale in Filologia Moderna	autem possimus illum	15	Valdo	Carbone	+72 938 6591087	gianriccardo23@hotmail.com	Via Eusebio 167 Appartamento 28	106
+Corso di Laurea Magistrale in Biologia evoluzionistica	recusandae numquam deserunt	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea Magistrale in Fisica	amet ullam hic	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea in Ingegneria Civile	dolorem aut dignissimos	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea Magistrale in Matematica	quas quam esse	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea in Infermieristica	est aut qui	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	eligendi est rerum	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea Magistrale in Scienza dei Materiali	voluptatibus ab sit	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea in Scienze Politiche	aut hic iure	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	sit omnis sit	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	et necessitatibus sit	16	Miriana	Morelli	+20 997 51 54 1939	morgana.moretti@rinaldi.net	Contrada Rita 5 Appartamento 71	1
+Corso di Laurea Magistrale in Biologia evoluzionistica	officiis sit sed	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea Magistrale in Scienze della natura	quae non voluptate	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea Magistrale in Astronomia	quibusdam similique occaecati	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Ingegneria dell'Informazione	et ducimus sed	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea Magistrale in Ingegneria Informatica	laboriosam ut iusto	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Informatica	asperiores modi qui	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Dietistica	quasi quidem et	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	ducimus ea nihil	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Fisioterapia	incidunt et velit	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	nihil consequatur voluptatem	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea Magistrale in Chimica	in optio voluptas	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Economia	vero consequatur id	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea Magistrale in Business Administration	iusto sed reprehenderit	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	et deleniti hic	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	et molestiae sunt	17	Rosaria	Neri	344 690 022	rosalba.rizzo@grassi.it	Piazza Demian 856 Appartamento 63	171
+Corso di Laurea Magistrale in Biologia molecolare	voluptas amet vitae	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	quia maxime molestiae	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea in Ingegneria Elettronica	et aut quae	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea Magistrale in Ingegneria Elettronica	nesciunt eligendi sed	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea Magistrale in Cybersecurity	sit atque nulla	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea in Informatica	sed quo delectus	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea in Tecniche di Radiologia Medica	aspernatur consequuntur quaerat	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea Magistrale in Business Administration	dicta qui maiores	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea in Diritto dell'Economia	quasi at facilis	18	Lorenzo	Rizzi	NULL	gallo.samira@hotmail.com	Strada Vitali 8 Piano 0	124
+Corso di Laurea in Biologia	beatae eveniet fugiat	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea in Fisica	magnam laudantium maxime	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	magnam sed eum	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea in Matematica	quas quo rem	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea in Tecniche di Radiologia Medica	rerum accusantium quisquam	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	magnam vel sed	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea Magistrale in Chimica	sit similique dolor	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	doloremque aut nihil	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	ut qui reiciendis	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea in Statistica per l'Economia e l'Impresa	in blanditiis dolorum	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea Magistrale in Scienze Statistiche	ut aliquam nostrum	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	adipisci ut quis	19	Ione	Mariani	NULL	qriva@amato.com	Strada Neri 577	76
+Corso di Laurea in Scienze naturali	voluptas culpa eos	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea Magistrale in Fisica	voluptatem ipsa odit	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	aut officia dolore	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Informatica	aliquam voluptas reiciendis	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Dietistica	culpa ea dolorem	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Tecniche di Radiologia Medica	possimus voluptatem animi	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea Magistrale in Chimica	harum possimus nihil	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea Magistrale in Economics and Finance	aspernatur nulla explicabo	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Scienze Politiche	magni voluptas a	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Statistica per l'Economia e l'Impresa	quidem deleniti omnis	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Statistica per l'Economia e l'Impresa	natus iste fugit	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	quos pariatur aliquid	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea Magistrale in Filologia Moderna	et possimus occaecati	20	Marvin	Ferrari	NULL	smazza@gmail.com	Borgo Elio 234 Piano 4	72
+Corso di Laurea in Biologia	natus dolores quod	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Scienze della natura	odio est qui	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea in Astronomia	assumenda non suscipit	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Fisica	voluptatem eos voluptas	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea in Ingegneria Civile	rem delectus eius	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea in Ingegneria Biomedica	consectetur voluptas et	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Ingegneria Informatica	et sed eum	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Cybersecurity	dolores facilis aliquid	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea in Informatica	quia porro consectetur	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea in Scienza dei Materiali	sunt rerum cum	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Scienza dei Materiali	est id hic	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Business Administration	voluptatem architecto alias	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea in Diritto dell'Economia	a dolorem voluptas	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	consequatur ut architecto	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	dolorem quis explicabo	21	Michele	Milani	NULL	nico.morelli@donati.org	Contrada Santoro 17 Appartamento 30	184
+Corso di Laurea in Biologia molecolare	vero est explicabo	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in Biologia marina	et qui voluptas	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Ingegneria Civile	voluptatibus quo eligendi	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Ingegneria Civile	quo explicabo quae	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Ingegneria dell'Informazione	cum quis dolorem	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	voluptas veniam similique	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in Informatica	et est porro	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in Informatica	ipsa aliquid sapiente	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	dicta ducimus odit	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Logopedia	esse excepturi voluptas	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Tecniche di Neurofisiopatologia	omnis voluptas molestias	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Chimica	commodi praesentium repudiandae	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Chimica Industriale	iure qui et	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in Chimica Industriale	est illum inventore	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Economia	qui nemo in	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Diritto dell'Economia	ratione autem natus	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in European and Global Studies	corporis itaque nobis	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	enim cupiditate laudantium	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea in Lettere	ex totam sint	22	Anselmo	Martino	+99 90 5086288	mgiuliani@testa.it	Borgo Elio 234 Piano 4	118
+Corso di Laurea Magistrale in Scienze della natura	tenetur omnis amet	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea Magistrale in Bioingegneria	est accusantium vitae	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea in Dietistica	debitis possimus mollitia	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea in Dietistica	est eaque aut	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea in Tecniche di Laboratorio Biomedico	possimus dolorum ut	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	error quia minus	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea in Fisioterapia	reiciendis totam quis	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	et vero aspernatur	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea in Statistica per l'Economia e l'Impresa	ex quaerat commodi	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea Magistrale in Filologia Moderna	enim non ut	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	repellendus possimus consequatur	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	praesentium mollitia rerum	23	Tazio	Sartori	+59 31 8721952	hguerra@yahoo.it	Rotonda Carmela 10 Piano 1	136
+Corso di Laurea in Biologia	iure qui voluptas	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea in Biologia molecolare	maxime laboriosam nostrum	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	eligendi adipisci corporis	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Ingegneria Civile	cupiditate optio commodi	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea in Ingegneria dell'Informazione	sed quis itaque	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Ingegneria Elettronica	dignissimos eos sit	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Cybersecurity	minima est et	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Chimica	harum doloremque eos	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Chimica	explicabo quaerat ducimus	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	iusto mollitia et	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Economics and Finance	eveniet rerum minima	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	consequatur in ratione	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Scienze Statistiche	earum magnam atque	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	autem aspernatur quisquam	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea Magistrale in Linguistica	reprehenderit rerum eaque	24	Celeste	Costa	+07 893 0681259	naomi57@libero.it	Via Giacinto 11 Piano 8	74
+Corso di Laurea in Biotecnologie	commodi officia cupiditate	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Biologia evoluzionistica	debitis vel pariatur	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Biologia evoluzionistica	sunt omnis asperiores	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Biologia sanitaria	est ab dolores	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	nulla cupiditate nemo	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Ingegneria Elettronica	et officia sunt	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea in Matematica	autem voluptas ab	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea in Educazione Professionale	velit esse soluta	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea in Tecniche di Neurofisiopatologia	autem ea laboriosam	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Chimica Industriale	non culpa praesentium	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	omnis quas nam	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Economia e Diritto	vero sit eos	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	magnam saepe in	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	ex perspiciatis blanditiis	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	vel ipsa eos	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	consequatur architecto consequatur	25	Concetta	Bianchi	+58 211 72300216	giobbe99@libero.it	Strada Kociss 997 Piano 8	124
+Corso di Laurea Magistrale in Biologia evoluzionistica	magni ea tempora	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Ingegneria Civile	nemo sit eum	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Ingegneria Informatica	explicabo officiis et	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Informatica	dicta pariatur dolore	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Tecniche di Laboratorio Biomedico	vero harum cupiditate	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Tecniche di Laboratorio Biomedico	voluptatibus soluta dolor	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Tecniche di Radiologia Medica	dolor ea voluptatem	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	natus unde quibusdam	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea Magistrale in Business Administration	qui quasi consequatur	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Diritto dell'Economia	qui ipsam sed	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	eius provident sapiente	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea Magistrale in European and Global Studies	et earum tenetur	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	porro suscipit incidunt	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Statistica per l'Economia e l'Impresa	sed facilis eos	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	consequuntur aut pariatur	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	porro cupiditate qui	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	voluptatem hic omnis	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea Magistrale in Strategie di Comunicazione	qui vitae molestias	26	Carmelo	Benedetti	+39 010 391 127	rossetti.erminia@yahoo.it	Rotonda Martinelli 309	77
+Corso di Laurea in Fisica	fugit odio sapiente	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea in Fisica	eum eos harum	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea Magistrale in Fisica	quo recusandae dignissimos	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea Magistrale in Ingegneria Elettronica	inventore provident molestiae	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea in Logopedia	sequi praesentium mollitia	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea in Scienza dei Materiali	voluptatem aliquam nam	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea in Economia	distinctio repellendus quis	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea Magistrale in Business Administration	provident nemo est	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea Magistrale in Economics and Finance	voluptatem perferendis repellendus	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	sed non dolore	27	Clea	Ruggiero	NULL	etesta@negri.org	Strada Concetta 6	73
+Corso di Laurea in Biotecnologie	aut perspiciatis officia	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea in Ingegneria Edile - Architettura	blanditiis necessitatibus enim	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in Bioingegneria	perferendis ipsa et	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in Ingegneria Elettronica	sequi quia delectus	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea in Matematica	dolor laborum optio	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in Informatica	distinctio numquam illum	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea in Tecniche di Laboratorio Biomedico	labore qui et	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea in Tecniche di Radiologia Medica	autem est maxime	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in Economia e Diritto	unde odit dolores	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in European and Global Studies	voluptatem sed reprehenderit	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	quisquam sed provident	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	enim voluptate perferendis	28	Rudy	Fontana	NULL	lombardo.nestore@colombo.it	Piazza Aroldo 8 Appartamento 85	110
+Corso di Laurea Magistrale in Biotecnologie industriali	eaque exercitationem non	29	Genziana	Ferrari	NULL	psorrentino@giordano.it	Contrada Rita 5 Appartamento 71	181
+Corso di Laurea Magistrale in Ingegneria Elettronica	et magni voluptas	29	Genziana	Ferrari	NULL	psorrentino@giordano.it	Contrada Rita 5 Appartamento 71	181
+Corso di Laurea in Tecniche di Neurofisiopatologia	quam quam non	29	Genziana	Ferrari	NULL	psorrentino@giordano.it	Contrada Rita 5 Appartamento 71	181
+Corso di Laurea Magistrale in European and Global Studies	dolores vel officiis	29	Genziana	Ferrari	NULL	psorrentino@giordano.it	Contrada Rita 5 Appartamento 71	181
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	velit dicta voluptatem	29	Genziana	Ferrari	NULL	psorrentino@giordano.it	Contrada Rita 5 Appartamento 71	181
+Corso di Laurea in Biotecnologie	necessitatibus tenetur vel	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Ingegneria Edile - Architettura	voluptatem consequatur ea	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	aut labore tempora	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Informatica	nemo beatae beatae	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Dietistica	ad vero in	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Dietistica	assumenda dolorum perspiciatis	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Fisioterapia	rerum quia dolore	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Logopedia	neque odio corrupti	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	minima aliquam numquam	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Diritto dell'Economia	nobis aut voluptas	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	vel et dolores	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	quaerat in ut	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea Magistrale in Scienze Statistiche	molestias animi vel	30	Cosetta	Palmieri	+39 382 251 589	dindo57@palmieri.it	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Astronomia	ut eum quia	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Ingegneria Informatica	ut dolorum soluta	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Ingegneria Biomedica	qui itaque sint	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Infermieristica	facere maiores iste	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	dolorem voluptatem consequuntur	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Fisioterapia	nisi ullam molestiae	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Chimica	ab numquam voluptates	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Chimica	rerum dignissimos et	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Scienza dei Materiali	sapiente saepe porro	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Economia	cupiditate dolor et	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Scienze Politiche	molestiae earum deserunt	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Scienze Politiche	aliquid fugiat laboriosam	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Statistica per l'Economia e l'Impresa	voluptatem culpa animi	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	accusantium aut dicta	31	Fortunata	Giordano	047 385 7776	sferraro@esposito.org	Strada Concetta 6	33
+Corso di Laurea in Biotecnologie	iste quidem aut	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea Magistrale in Biologia evoluzionistica	iusto consequatur ut	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea Magistrale in Biologia evoluzionistica	quia doloribus nulla	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Ingegneria Civile	ut perferendis sunt	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea Magistrale in Ingegneria Civile	ad voluptatem dolorem	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Ingegneria Elettronica	eligendi corrupti tempore	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Tecniche di Laboratorio Biomedico	ut veritatis magnam	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Fisioterapia	qui quasi recusandae	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Logopedia	molestias autem similique	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Logopedia	ut rerum maiores	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	unde veritatis a	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Tecniche di Neurofisiopatologia	doloribus temporibus cumque	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Scienza dei Materiali	consequatur rerum asperiores	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	numquam aspernatur nesciunt	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea Magistrale in European and Global Studies	omnis libero corrupti	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea Magistrale in Linguistica	molestiae distinctio quis	32	Maika	Barbieri	+39 029 178 871	zricci@parisi.org	Via Eusebio 167 Appartamento 28	60
+Corso di Laurea in Biologia molecolare	aliquam aliquam et	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Biologia molecolare	ut tempore magni	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Biotecnologie	rerum inventore nihil	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Ingegneria Civile	enim perferendis autem	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea Magistrale in Ingegneria Civile	fugit molestiae earum	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Ingegneria Elettronica	dolorum officiis tempore	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Matematica	vel molestiae sed	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Informatica	et possimus assumenda	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Logopedia	illo incidunt et	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea Magistrale in Chimica	est in quasi	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea Magistrale in Chimica Industriale	temporibus tempore ipsam	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea Magistrale in Chimica Industriale	accusantium et voluptates	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea Magistrale in Chimica Industriale	voluptatem occaecati consectetur	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	eos est dolor	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Lettere	et eos adipisci	33	Cassiopea	Valentini	NULL	romeo94@battaglia.it	Contrada Rita 5 Appartamento 71	21
+Corso di Laurea in Biologia	corporis enim doloremque	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Biologia	deserunt magni incidunt	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Scienze naturali	veritatis illo quia	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Biologia sanitaria	magnam assumenda aut	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Astronomia	et possimus quae	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Fisica	ut porro consequatur	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Ingegneria Civile	neque voluptas dolorum	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Ingegneria Informatica	natus et hic	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Ingegneria Informatica	voluptatibus omnis et	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Bioingegneria	sunt fuga qui	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	est atque et	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	quia aspernatur dolorum	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Ingegneria Elettronica	eligendi eius quos	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Dietistica	qui dignissimos quis	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Dietistica	atque et consectetur	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	rerum aperiam ducimus	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Igiene Dentale	et animi accusamus	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	non voluptatibus quia	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	enim id deserunt	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Business Administration	cupiditate at illum	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Statistica per l'Economia e l'Impresa	omnis quibusdam et	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	quas est repellat	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	voluptas sit aliquam	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	unde at voluptas	34	Elsa	Basile	NULL	dante49@battaglia.it	Rotonda Martinelli 309	43
+Corso di Laurea in Biologia molecolare	suscipit quam et	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea Magistrale in Biologia molecolare	non aperiam ab	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea Magistrale in Ingegneria Elettronica	cum doloremque nostrum	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea Magistrale in Matematica	et iure natus	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea in Infermieristica	voluptate quos debitis	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea in Tecniche di Laboratorio Biomedico	eos enim cumque	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	aut ullam vero	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea in Tecniche di Neurofisiopatologia	recusandae at deserunt	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	commodi suscipit perspiciatis	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea Magistrale in Chimica	voluptatem occaecati enim	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	et doloribus qui	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	ipsam sit ut	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea Magistrale in Strategie di Comunicazione	sit amet voluptatum	35	Gavino	Fabbri	NULL	ndesantis@negri.com	Rotonda Martinelli 309	150
+Corso di Laurea in Biologia molecolare	unde quae delectus	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Biologia marina	rem non eum	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Fisica	placeat sit doloribus	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	repudiandae aut laudantium	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Ingegneria Elettronica	unde voluptas delectus	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Dietistica	voluptas nihil nesciunt	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Infermieristica	quam id atque	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Educazione Professionale	laudantium nulla possimus	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Fisioterapia	ea quo itaque	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Chimica	quae eligendi praesentium	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Scienza dei Materiali	dolorem animi minus	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Economia	necessitatibus repellendus omnis	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Economia	aut ut nam	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	et occaecati eius	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	architecto atque dolorem	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	distinctio aliquid maiores	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	alias voluptates dignissimos	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Scienze Statistiche	eum et saepe	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea Magistrale in Strategie di Comunicazione	ad deserunt adipisci	36	Erminio	Montanari	+02 227 1734650	enegri@gmail.com	Via Maika 491	97
+Corso di Laurea in Biologia	nam omnis perspiciatis	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea Magistrale in Biologia sanitaria	magnam ullam doloribus	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Ingegneria Biomedica	ut ea officia	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Ingegneria Biomedica	qui ut sunt	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	fugit debitis sapiente	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Infermieristica	quibusdam nobis architecto	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Tecniche di Laboratorio Biomedico	commodi sapiente neque	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Tecniche di Laboratorio Biomedico	enim sunt et	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Tecniche di Radiologia Medica	non explicabo aut	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Tecniche di Neurofisiopatologia	qui omnis sit	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Tecniche di Neurofisiopatologia	tenetur est et	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Scienza dei Materiali	non et ullam	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea Magistrale in European and Global Studies	distinctio rerum dolor	37	Giordano	Giuliani	+96 336 2764612	enrica.dangelo@costantini.com	Via Eusebio 167 Appartamento 28	83
+Corso di Laurea in Scienze naturali	qui eligendi non	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Biologia molecolare	porro optio odit	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Biotecnologie industriali	deleniti et ullam	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Biotecnologie industriali	sapiente quia accusantium	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Astronomia	temporibus natus et	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Astronomia	et ea beatae	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea in Matematica	quidem rerum illum	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea in Tecniche di Laboratorio Biomedico	nihil quia at	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea in Educazione Professionale	dolor ullam sit	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Scienza dei Materiali	quia quia laboriosam	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Economics and Finance	nihil omnis et	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	rerum dolor quia	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea in Statistica per l'Economia e l'Impresa	pariatur labore ex	38	Rufo	Morelli	NULL	zelida16@email.it	Piazza Pellegrino 613 Piano 8	161
+Corso di Laurea in Biologia	in voluptatem qui	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea in Biologia	velit aut voluptatum	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea in Scienze naturali	molestiae est neque	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Biologia sanitaria	dolor eum et	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Biologia sanitaria	quo explicabo id	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Ingegneria Civile	placeat debitis voluptatibus	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea in Ingegneria dell'Informazione	possimus ut mollitia	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea in Ingegneria Elettronica	a quis at	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Bioingegneria	qui quibusdam accusantium	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Informatica	est earum iure	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea in Tecniche di Laboratorio Biomedico	adipisci non eius	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	quaerat et corporis	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	et rem natus	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	magni vitae exercitationem	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	doloribus debitis eveniet	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea Magistrale in Linguistica	quia non rerum	39	Guendalina	Barbieri	NULL	davis34@yahoo.com	Via Giacinto 11 Piano 8	36
+Corso di Laurea in Biologia molecolare	expedita praesentium alias	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Scienze naturali	enim ducimus consequatur	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea Magistrale in Biologia marina	qui non sit	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Fisica	aliquid aut excepturi	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea Magistrale in Astronomia	voluptatum soluta sed	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	placeat est repellat	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea Magistrale in Ingegneria Civile	ipsa dolores quis	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Ingegneria Informatica	voluptatem fugiat corporis	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Dietistica	distinctio labore omnis	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Infermieristica	sed possimus expedita	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Infermieristica	impedit qui ipsum	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Educazione Professionale	perspiciatis voluptates veniam	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	optio odit necessitatibus	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	at ex perferendis	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea in Chimica Industriale	qui expedita qui	40	Vitalba	Rossetti	NULL	zelida.amato@libero.it	Borgo Elga 89	132
+Corso di Laurea Magistrale in Biologia molecolare	est voluptas reiciendis	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea Magistrale in Ingegneria Informatica	aliquid ducimus optio	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea in Educazione Professionale	laboriosam dolorum aut	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	molestiae incidunt facilis	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea in Economia	sint quam unde	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	officia et soluta	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	ut quo ducimus	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea Magistrale in European and Global Studies	voluptas consequatur sit	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	enim et rerum	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea Magistrale in Linguistica	et fugit occaecati	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea Magistrale in Linguistica	reprehenderit cupiditate quia	41	Luce	Donati	+87 2645 09216603	testa.odino@costa.it	Borgo Elga 89	111
+Corso di Laurea in Scienze naturali	adipisci corrupti quia	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Biotecnologie industriali	consectetur dolorem earum	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	reiciendis aut corporis	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea in Ingegneria Edile - Architettura	aut architecto ad	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea in Ingegneria Biomedica	cum debitis assumenda	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Bioingegneria	natus soluta eum	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea in Educazione Professionale	et rerum iste	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Economia e Diritto	nam ratione officiis	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea in Scienze Politiche	sint et perferendis	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	porro illo ea	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	quidem vero eaque	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	exercitationem ea omnis	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Linguistica	id rerum inventore	42	Vania	Martino	NULL	leone.leone@rizzo.it	Borgo Martino 82 Appartamento 07	33
+Corso di Laurea Magistrale in Biologia sanitaria	omnis iste et	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Ingegneria Edile - Architettura	quod et non	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Ingegneria dell'Informazione	voluptatem quibusdam fugit	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea Magistrale in Bioingegneria	ab ex est	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Informatica	sunt animi enim	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Tecniche di Radiologia Medica	quia voluptatibus nisi	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Educazione Professionale	eligendi rerum cum	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	ut ut laboriosam	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Scienze Politiche	est consequuntur qui	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	et deserunt vitae	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	nisi suscipit impedit	43	Penelope	Bruno	NULL	htesta@milani.com	Rotonda Martinelli 309	163
+Corso di Laurea in Biologia molecolare	impedit et eaque	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea Magistrale in Scienze della natura	explicabo ab voluptas	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea in Astronomia	ullam ullam dignissimos	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea in Ingegneria Civile	aut pariatur a	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea in Informatica	alias voluptatibus sed	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea in Tecniche di Radiologia Medica	facilis adipisci provident	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea in Logopedia	doloribus nemo iure	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea in Tecniche di Neurofisiopatologia	et quasi enim	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea Magistrale in Economia e Diritto	facilis pariatur qui	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea Magistrale in Economia e Diritto	dolor repellat dignissimos	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	magni magni omnis	44	Fulvio	Amato	NULL	ubianco@bellini.com	Strada Lombardi 855	78
+Corso di Laurea in Scienze naturali	in dolorem sit	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Astronomia	corporis odit sint	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea Magistrale in Astronomia	fuga et aut	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Ingegneria Edile - Architettura	quas molestiae eveniet	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Ingegneria Edile - Architettura	nemo quis omnis	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea Magistrale in Ingegneria Civile	provident cumque voluptatem	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Ingegneria dell'Informazione	omnis voluptates enim	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Matematica	modi harum omnis	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Dietistica	laboriosam fugit et	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Igiene Dentale	voluptas aliquid molestiae	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Chimica	rerum et et	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	quasi occaecati nulla	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	nulla corporis fugit	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Lettere	quae inventore voluptatem	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	numquam fugiat sed	45	Eusebio	Pellegrini	+16 76 8795400	prisca.giuliani@santoro.com	Borgo Elio 234 Piano 4	106
+Corso di Laurea in Fisica	quis pariatur voluptatem	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Ingegneria Edile - Architettura	voluptatibus veniam consequatur	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Ingegneria dell'Informazione	est magni explicabo	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Infermieristica	suscipit velit labore	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Logopedia	nemo esse placeat	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	totam expedita vel	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Chimica	ea enim adipisci	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Scienza dei Materiali	ea quia quas	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea Magistrale in Chimica	voluptatem vel praesentium	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	excepturi aut eaque	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea Magistrale in Filologia Moderna	ea non vero	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	ut et quod	46	Eliziario	Palmieri	NULL	sriva@hotmail.com	Incrocio Testa 142 Piano 7	34
+Corso di Laurea in Biologia molecolare	quo expedita et	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea Magistrale in Astronomia	quia rem voluptatum	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea in Ingegneria dell'Informazione	et sint porro	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea in Ingegneria dell'Informazione	voluptatem sunt sunt	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea in Informatica	minus facilis accusantium	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea in Dietistica	aut enim nesciunt	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea in Tecniche di Neurofisiopatologia	aut praesentium corrupti	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	repellendus veniam consequatur	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea in Diritto dell'Economia	perspiciatis magnam dolores	47	Bibiana	Farina	NULL	lferrara@marino.it	Via Eusebio 167 Appartamento 28	196
+Corso di Laurea Magistrale in Biologia evoluzionistica	et harum nulla	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Ingegneria Civile	et voluptatem commodi	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Ingegneria Informatica	expedita consequatur nihil	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Informatica	sapiente nihil et	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Informatica	illum ex doloremque	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Dietistica	voluptate quos esse	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Tecniche di Laboratorio Biomedico	reiciendis molestiae qui	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Educazione Professionale	tempore quod eum	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Educazione Professionale	voluptatum blanditiis quia	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	quidem ipsa laborum	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea Magistrale in Chimica	eum pariatur quia	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	voluptas dolores quos	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea Magistrale in Filologia Moderna	dolor error porro	48	Nabil	Rossetti	NULL	ivonne.derosa@yahoo.it	Rotonda Carmela 10 Piano 1	88
+Corso di Laurea in Biologia	sed est nemo	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea Magistrale in Biotecnologie industriali	a vero voluptatibus	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea Magistrale in Fisica	deserunt delectus eos	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea in Ingegneria Civile	vel quasi dolorum	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea in Ingegneria dell'Informazione	inventore enim qui	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea in Ingegneria Biomedica	impedit nobis exercitationem	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea in Educazione Professionale	fuga at officiis	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea in Logopedia	ratione repellendus eveniet	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	placeat qui eaque	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea Magistrale in Chimica Industriale	voluptatum voluptatibus corrupti	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea in Economia	est maxime ipsam	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea Magistrale in Business Administration	praesentium facilis quo	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea in Scienze Politiche	ut sint qui	49	Nathan	Cattaneo	NULL	fderosa@galli.com	Borgo Martino 82 Appartamento 07	22
+Corso di Laurea Magistrale in Biologia molecolare	adipisci ea enim	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Astronomia	et aut enim	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Ingegneria Informatica	eos quis officiis	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Ingegneria Informatica	quo a qui	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Ingegneria Biomedica	iure facilis delectus	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea Magistrale in Matematica	amet dicta et	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Tecniche di Laboratorio Biomedico	culpa voluptas voluptatem	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Tecniche di Radiologia Medica	omnis fugit non	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Fisioterapia	et tempora perspiciatis	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Logopedia	adipisci ut suscipit	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Tecniche di Neurofisiopatologia	omnis libero autem	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Scienza dei Materiali	sit aut aliquam	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea Magistrale in Economics and Finance	labore dolorem ipsa	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea Magistrale in European and Global Studies	iusto consequatur quae	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	libero eius cum	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea in Lettere	quos aut dolore	50	Sarita	Donati	+21 443 59 54 4170	aparisi@galli.com	Borgo Ippolito 5 Piano 5	178
+Corso di Laurea Magistrale in Biologia evoluzionistica	ipsam amet recusandae	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea Magistrale in Biologia molecolare	molestiae beatae est	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Astronomia	et quibusdam libero	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Ingegneria Biomedica	vel ut corporis	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Matematica	vel beatae illum	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Informatica	est est quo	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	suscipit ipsa et	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea Magistrale in Chimica Industriale	ut voluptatem nihil	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea Magistrale in Economia e Diritto	voluptas neque harum	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Diritto dell'Economia	porro aliquid est	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Scienze Politiche	doloribus iusto quia	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	fugit quis rerum	51	Folco	Piras	NULL	gregorio.valentini@gmail.com	Strada Neri 577	107
+Corso di Laurea in Scienze naturali	molestiae consectetur vero	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Scienze naturali	odit nulla minus	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Astronomia	ratione aut quas	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Ingegneria Civile	asperiores odit incidunt	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Ingegneria dell'Informazione	nesciunt quo mollitia	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Ingegneria Informatica	at maxime et	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	culpa nemo aut	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Informatica	odio perspiciatis dolore	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Infermieristica	nemo tempore exercitationem	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Logopedia	facere sit est	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Chimica	quidem provident praesentium	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Chimica Industriale	aperiam nostrum sint	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Chimica Industriale	consequatur autem molestiae	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea Magistrale in Chimica Industriale	excepturi blanditiis fugiat	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Economia	minus maiores porro	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	veritatis et aliquam	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Lettere	velit maiores commodi	52	Pablo	Caruso	NULL	caio.caputo@conti.it	Borgo Elga 89	97
+Corso di Laurea in Biologia molecolare	rerum quod quibusdam	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Biotecnologie	eaque sit impedit	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Fisica	iste tempora doloremque	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Fisica	tempore fugiat totam	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Ingegneria Informatica	debitis in quo	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Matematica	saepe quo et	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Dietistica	aut dolores ut	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Dietistica	quam qui ipsam	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	eum ipsum inventore	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Tecniche di Neurofisiopatologia	nulla molestiae odit	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	enim odit debitis	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Chimica Industriale	et et quibusdam	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	error odio enim	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	ex aut sed	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Statistica per l'Economia e l'Impresa	eos dolorum rerum	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Scienze Statistiche	architecto ab sit	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Filologia Moderna	qui soluta maxime	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea Magistrale in Strategie di Comunicazione	unde commodi qui	53	Cira	Caputo	NULL	amerigo.carbone@monti.org	Piazza Demian 856 Appartamento 63	51
+Corso di Laurea in Biologia molecolare	mollitia repudiandae culpa	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea Magistrale in Biologia molecolare	ut sit est	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea in Fisica	omnis exercitationem ipsa	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea in Ingegneria Biomedica	ea facere laboriosam	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea in Ingegneria Elettronica	qui praesentium minus	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea Magistrale in Ingegneria Informatica	rerum quos pariatur	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea in Infermieristica	ipsa assumenda eligendi	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	aut nesciunt deleniti	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea in Educazione Professionale	ipsa exercitationem aut	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea Magistrale in Economics and Finance	earum numquam deserunt	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	impedit vitae laboriosam	54	Piererminio	Sanna	+39 376 562 381	mbattaglia@marchetti.it	Rotonda Teseo 9	59
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	est tempora aliquid	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	quasi qui eum	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea in Scienza dei Materiali	neque architecto est	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	nostrum fugiat optio	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea Magistrale in Chimica	nobis nesciunt fugit	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea in Economia	non ipsa sint	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	commodi laboriosam cumque	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	excepturi vero ad	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	et voluptatum veniam	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea Magistrale in Scienze Statistiche	non repellendus vero	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	eaque dolores est	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea Magistrale in Strategie di Comunicazione	distinctio rem quis	55	Hector	Pellegrini	+39 061 104 573	tneri@neri.com	Via Mariano 48	11
+Corso di Laurea in Biotecnologie	voluptatem eveniet aut	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Ingegneria Informatica	consequatur ea ipsam	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	maiores eum rerum	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea in Scienza dei Materiali	quaerat accusamus eos	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Chimica Industriale	fugit qui voluptatem	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Scienza dei Materiali	ratione rerum non	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Business Administration	vitae est fuga	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Economics and Finance	qui ipsam sit	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	eaque nostrum et	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	harum a sed	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea in Statistica per l'Economia e l'Impresa	consequatur fugiat quia	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea in Lettere	iusto labore aut	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea Magistrale in Linguistica	vitae sint in	56	Timothy	Mancini	NULL	amato.erminio@gmail.com	Rotonda Martinelli 309	157
+Corso di Laurea in Fisica	at id rerum	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Fisica	dolorum ex error	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Ingegneria Civile	voluptatem rem ut	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Ingegneria Civile	sit at quia	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Ingegneria Civile	ipsum est facilis	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Ingegneria Informatica	sint molestiae porro	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Ingegneria Elettronica	laboriosam reiciendis nulla	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Tecniche di Laboratorio Biomedico	est magni quos	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Tecniche di Laboratorio Biomedico	recusandae vero qui	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	sapiente pariatur voluptates	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Igiene Dentale	est deserunt expedita	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	qui autem excepturi	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Scienza dei Materiali	et ducimus eos	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Scienza dei Materiali	ipsam deserunt dicta	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	voluptatem consectetur voluptas	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Diritto dell'Economia	soluta soluta aspernatur	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in European and Global Studies	enim quae quos	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	et eius occaecati	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	aliquam molestias sit	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	quo autem et	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Filologia Moderna	officia cumque tempore	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea Magistrale in Strategie di Comunicazione	occaecati quo laboriosam	57	Piersilvio	Carbone	NULL	aaron72@gmail.com	Rotonda Carmela 10 Piano 1	72
+Corso di Laurea in Biologia molecolare	atque assumenda explicabo	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Biologia molecolare	minus beatae illo	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Ingegneria Edile - Architettura	nihil vero voluptas	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Ingegneria dell'Informazione	voluptatem sit dolorem	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Ingegneria Elettronica	sequi id eum	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	laboriosam quia veritatis	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea Magistrale in Cybersecurity	provident culpa labore	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea Magistrale in Informatica	ducimus sapiente at	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea Magistrale in Informatica	quia eos doloremque	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Dietistica	illum sit dolores	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	necessitatibus aut quis	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Igiene Dentale	qui voluptas illum	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Chimica Industriale	illo delectus repellendus	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	quae vitae nisi	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	quia rerum et	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Lettere	magnam voluptatem harum	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	ut earum eum	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea Magistrale in Filologia Moderna	porro est eum	58	Pietro	Rizzo	+21 6710 0964205	sanna.michele@negri.it	Contrada Santoro 17 Appartamento 30	125
+Corso di Laurea in Fisica	sit vero tempora	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea in Ingegneria Elettronica	aut consequatur exercitationem	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea in Tecniche di Radiologia Medica	ut nostrum maxime	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	similique veniam sit	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea in Fisioterapia	est in officia	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea in Logopedia	magnam aut repellat	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea Magistrale in Economics and Finance	unde architecto pariatur	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	soluta alias fugiat	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	deserunt enim non	59	Carlo	Monti	+56 73 28324975	dpalumbo@rizzi.it	Rotonda Teseo 9	17
+Corso di Laurea in Astronomia	quia labore vitae	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Fisica	architecto deleniti temporibus	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea Magistrale in Astronomia	officiis fugiat voluptatem	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	est quos delectus	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea Magistrale in Ingegneria Civile	eveniet molestias quas	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Infermieristica	dolore enim eius	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Tecniche di Radiologia Medica	quo dolor aspernatur	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Igiene Dentale	dolor optio non	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Tecniche di Neurofisiopatologia	velit quo impedit	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Scienza dei Materiali	quia omnis et	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea Magistrale in Business Administration	quo ipsum ipsa	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	labore rerum deleniti	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	omnis ut amet	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea Magistrale in Linguistica	laboriosam aperiam ut	60	Eusebio	Conti	NULL	lleone@sala.com	Strada Lino 8	9
+Corso di Laurea in Biotecnologie	odio odit id	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea Magistrale in Biotecnologie industriali	assumenda et sed	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Ingegneria Civile	ea ut autem	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Ingegneria Elettronica	labore sapiente quidem	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Informatica	esse rerum voluptas	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Tecniche di Radiologia Medica	totam illo non	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	consectetur omnis sit	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Chimica	sit adipisci repudiandae	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	et id dolores	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Economia	sit eum libero	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Diritto dell'Economia	perferendis nemo porro	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea Magistrale in Innovazione e Servizio Sociale	delectus quas quam	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia	accusamus aut ipsum	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea in Lettere	velit et odit	61	Cosetta	Costantini	+02 4239 6196733	valentini.giovanna@yahoo.com	Rotonda Martinelli 309	164
+Corso di Laurea Magistrale in Scienze della natura	ut doloribus dicta	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea in Astronomia	maxime laboriosam quo	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea Magistrale in Fisica	illum non accusamus	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea in Ingegneria Edile - Architettura	maiores cumque repudiandae	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea in Ingegneria Elettronica	modi deleniti delectus	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	architecto cumque iure	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea in Scienza dei Materiali	error deserunt ea	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea Magistrale in Business Administration	sed qui magnam	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea Magistrale in Economia e Diritto	rerum deserunt eaque	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea in Diritto dell'Economia	praesentium tempore consequuntur	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea in Statistica per le Tecnologie e le Scienze	ut quis illo	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea Magistrale in Filologia Moderna	dolorum earum ipsum	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea Magistrale in Filologia Moderna	quis molestias veniam	62	Ingrid	Mancini	+13 048 26084137	msorrentino@milani.it	Piazza Demian 856 Appartamento 63	159
+Corso di Laurea in Scienze naturali	quam repellat enim	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Biologia molecolare	autem recusandae doloremque	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	numquam deserunt quasi	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Ingegneria Biomedica	et dolores atque	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Ingegneria Elettronica	laborum corporis voluptas	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	veritatis corporis et	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	quis asperiores rem	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	rerum cupiditate tempore	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Scienza dei Materiali	exercitationem explicabo fuga	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	rem sit error	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	exercitationem est magni	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Business Administration	atque non numquam	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Diritto dell'Economia	nesciunt voluptas deleniti	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea in Scienze Politiche	dolore ut ipsa	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Linguistica	rerum in sed	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Strategie di Comunicazione	quis ipsa non	63	Kayla	Carbone	+29 184 8203426	dante89@yahoo.it	Strada Kociss 997 Piano 8	43
+Corso di Laurea Magistrale in Biologia evoluzionistica	quam provident perspiciatis	64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+Corso di Laurea Magistrale in Biologia sanitaria	quam fugit accusantium	64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+Corso di Laurea in Informatica	voluptates sed eaque	64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+Corso di Laurea Magistrale in Economics and Finance	est explicabo iste	64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+Corso di Laurea in Diritto dell'Economia	veniam unde laborum	64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+Corso di Laurea in Statistica per l'Economia e l'Impresa	corporis harum maxime	64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+Corso di Laurea Magistrale in Strategie di Comunicazione	quaerat in qui	64	Loretta	Amato	+26 383 40 14 3011	lucia.lombardo@yahoo.it	Incrocio Marini 9	164
+Corso di Laurea in Biologia	et doloremque omnis	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea in Scienze naturali	quia aut aut	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea Magistrale in Scienze della natura	impedit sunt qui	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea Magistrale in Astronomia	nemo cumque optio	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea in Ingegneria Edile - Architettura	qui similique qui	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea Magistrale in Informatica	et et saepe	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea Magistrale in Chimica	ullam dicta non	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	voluptatem repudiandae rerum	65	Giovanna	Mariani	NULL	luna.rizzo@hotmail.com	Borgo Elga 89	2
+Corso di Laurea in Biologia molecolare	iste ullam cum	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Biotecnologie	sed sint aut	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Biotecnologie	cupiditate deleniti nihil	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Biologia sanitaria	velit ut dolorem	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Fisica	officiis perspiciatis unde	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Ingegneria dell'Informazione	non occaecati voluptatem	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Ingegneria Informatica	ducimus qui temporibus	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Ingegneria Informatica	sunt sed eius	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Ingegneria Informatica	distinctio laboriosam sit	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Informatica	dolore nemo voluptatibus	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Infermieristica	ab error incidunt	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	labore sequi incidunt	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Igiene Dentale	quia aliquam dolore	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria	sunt qui mollitia	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Chimica	odio et sed	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	doloremque a nulla	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	labore explicabo asperiores	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea in Diritto dell'Economia	autem aut occaecati	66	Felicia	Testa	NULL	doriana.vitale@fabbri.it	Contrada Penelope 73	113
+Corso di Laurea Magistrale in Biotecnologie industriali	omnis incidunt recusandae	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Ingegneria Elettronica	aperiam possimus dolor	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Matematica	facere ad rerum	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Dietistica	inventore praesentium voluptatem	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	qui doloremque dolorem	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	ut eius error	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Scienza dei Materiali	qui nemo ad	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	nihil in rem	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	dicta consectetur delectus	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Economia	et est iure	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Diritto dell'Economia	quia consectetur consequatur	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	rem ut ea	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea Magistrale in European and Global Studies	dolorem perferendis eos	67	Ivonne	Neri	+61 72 18587184	sorrentino.violante@hotmail.com	Via Elga 7 Piano 4	138
+Corso di Laurea in Biotecnologie	beatae quia quia	68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+Corso di Laurea in Matematica	officiis nam eius	68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+Corso di Laurea in Infermieristica	et aut architecto	68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+Corso di Laurea in Scienza dei Materiali	vel vel eos	68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+Corso di Laurea Magistrale in Scienza dei Materiali	aut rerum provident	68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+Corso di Laurea in Lettere	vel velit non	68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	nisi consequatur in	68	Cleopatra	Rinaldi	394 643 755	uvitale@silvestri.it	Rotonda Carmela 10 Piano 1	104
+Corso di Laurea Magistrale in Biotecnologie industriali	eaque veritatis ea	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea Magistrale in Biotecnologie industriali	soluta placeat asperiores	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea Magistrale in Scienze della natura	nesciunt esse natus	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea in Ingegneria dell'Informazione	adipisci aliquam dolorum	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea in Ingegneria dell'Informazione	occaecati voluptatibus voluptatem	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea Magistrale in Ingegneria dell'Automazione	dolores voluptatem sint	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea Magistrale in Matematica	sit ipsum accusamus	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea Magistrale in Economia e Diritto	distinctio ullam aspernatur	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea in Lettere	aliquam culpa quia	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	amet itaque fugit	69	Evita	Morelli	+39 310 272 545	grazia66@hotmail.com	Piazza Ferretti 619	106
+Corso di Laurea in Biologia	qui laboriosam non	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea Magistrale in Biologia evoluzionistica	facilis vero voluptatem	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea Magistrale in Biologia sanitaria	quia vero illum	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea in Fisica	qui voluptatem iste	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea in Ingegneria Civile	animi id quia	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea in Ingegneria Edile - Architettura	ea et harum	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea in Ingegneria Informatica	quis minus ad	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	rem rerum laudantium	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea in Educazione Professionale	deleniti nesciunt amet	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea in Educazione Professionale	impedit ducimus ipsum	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea in Fisioterapia	quos nobis vero	70	Diamante	Ferri	+39 089 931 950	cassiopea.sartori@gmail.com	Via Eusebio 167 Appartamento 28	41
+Corso di Laurea Magistrale in Biotecnologie industriali	aut non eos	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea Magistrale in Ingegneria Civile	quia quod deserunt	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea Magistrale in Ingegneria Civile	possimus earum qui	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea in Ingegneria Informatica	est ab ratione	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea in Ingegneria Informatica	omnis rerum tenetur	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea in Tecniche di Radiologia Medica	itaque debitis ipsa	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata	et assumenda nihil	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea in Igiene Dentale	dicta quisquam perspiciatis	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea in Igiene Dentale	id expedita aut	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	sit sint eveniet	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea Magistrale in Economia e Diritto	et eos optio	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	quia tenetur autem	71	Iacopo	Amato	NULL	orlando.alberto@palmieri.it	Via Giacinto 11 Piano 8	48
+Corso di Laurea Magistrale in Biologia molecolare	corrupti doloribus molestiae	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Fisica	voluptas excepturi aut	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Ingegneria Edile - Architettura	sit officia accusamus	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	saepe laudantium quia	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	nam aut reprehenderit	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Chimica	sint explicabo quae	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea Magistrale in Chimica Industriale	dolor occaecati tenetur	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea Magistrale in Business Administration	consequatur est numquam	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Scienze Politiche	magni vero inventore	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Relazioni Internazionali e Diritti Umani	sit assumenda ut	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea Magistrale in Human Rights and Multi-Level Governance	fugiat animi fugiat	72	Jarno	Caputo	NULL	desantis.celeste@bellini.net	Incrocio Marini 9	43
+Corso di Laurea in Biologia	voluptatem ullam atque	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea Magistrale in Biologia sanitaria	quibusdam dolor alias	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea Magistrale in Scienze della natura	ut voluptatibus neque	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea in Matematica	numquam amet eaque	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea in Educazione Professionale	eum beatae earum	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea in Tecniche di Neurofisiopatologia	aut et sed	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea in Scienza dei Materiali	alias fugiat provident	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea Magistrale in Scienza dei Materiali	saepe rerum iste	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente	in consequatur quia	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea Magistrale in Economia e Diritto	assumenda impedit nihil	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea in Scienze Politiche	at dolorem temporibus	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	sunt culpa id	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale	qui sapiente voluptatem	73	Elda	Bruno	+62 35 8488435	diamante.monti@battaglia.it	Piazza Ferretti 619	101
+Corso di Laurea in Biotecnologie	perspiciatis quae eveniet	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Cybersecurity	quam expedita doloribus	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Informatica	quos voluptatem quis	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Tecniche di Laboratorio Biomedico	nam illo repellendus	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Tecniche di Laboratorio Biomedico	laudantium animi dolorem	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Tecniche di Radiologia Medica	enim qui facere	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie	aperiam ut suscipit	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Logopedia	omnis libero nulla	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	consequatur eius et	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Scienze e Tecnologie per l'Ambiente	nulla velit omnis	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Economics and Finance	ad dignissimos doloremque	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche	qui facere minima	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Statistica per l'Economia e l'Impresa	esse incidunt aut	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea in Lingue, Letterature e Mediazione Culturale	minus consequatur culpa	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Filologia Moderna	fugit distinctio quibusdam	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	eos quisquam dolores	74	Maika	Bellini	NULL	ferri.walter@martino.com	Strada Lombardi 855	137
+Corso di Laurea Magistrale in Biologia molecolare	consequatur omnis porro	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea Magistrale in Biologia sanitaria	quis aut a	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea in Astronomia	provident ea molestiae	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea in Ingegneria Civile	hic et et	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea in Ingegneria per l'Ambiente e il Territorio	occaecati officiis aliquid	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea in Tecnica della Riabilitazione Psichiatrica	quaerat id possimus	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea in Chimica	architecto eligendi consequatur	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea in Scienza dei Materiali	non rerum molestiae	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea Magistrale in Entrepreneurship and Innovation	error quam maiores	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea in Lettere	nihil occaecati minus	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane	aspernatur veritatis placeat	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea Magistrale in Linguistica	quia totam sunt	75	Soriana	Pellegrino	+80 4162 3863495	albino.orlando@longo.com	Strada Lombardi 855	16
+Corso di Laurea Magistrale in Biologia sanitaria	tenetur animi autem	76	Ortensia	Testa	NULL	hpiras@email.it	Contrada Penelope 73	28
+Corso di Laurea in Ingegneria Civile	deserunt quia non	76	Ortensia	Testa	NULL	hpiras@email.it	Contrada Penelope 73	28
+Corso di Laurea in Ingegneria Edile - Architettura	dolores ex sequi	76	Ortensia	Testa	NULL	hpiras@email.it	Contrada Penelope 73	28
